@@ -131,7 +131,8 @@
             this.Controls.Add(this.LabelLab8);
             this.Location = new System.Drawing.Point(200, 200);
             this.Name = "FormLab8";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Lab8";
             this.GroupBoxInfo.ResumeLayout(false);
             this.GroupBoxInfo.PerformLayout();
             this.ResumeLayout(false);
